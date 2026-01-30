@@ -24,3 +24,19 @@ Feel free to open an issue or submit a pull request.
 
 ## License
 See LICENSE file.
+
+## Getting Started
+
+These instructions will help you run **Word Piggy** locally for development and experimentation.
+
+### Prerequisites
+- Node.js (v18 or later recommended)
+- npm (included with Node.js)
+
+### Installation
+Clone the repository and install dependencies:
+
+```bash
+npm install
+npm run dev
+npm run build
