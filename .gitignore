@@ -1,0 +1,12 @@
+# Environment variables
+.env
+.env.*
+*.local
+
+# Node / build artifacts
+node_modules
+dist
+build
+
+# OS junk
+.DS_Store
