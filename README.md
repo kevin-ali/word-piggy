@@ -1,6 +1,7 @@
 # 🐷 Word Piggy
 
 🌐 **Live demo:** [https://glittering-naiad-bcc246.netlify.app/](https://glittering-naiad-bcc246.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://glittering-naiad-bcc246.netlify.app/)
 
 Word Piggy is an open-source web application for analyzing word and phrase frequency in news media using the GDELT Project.
 
